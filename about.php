@@ -24,7 +24,7 @@
 
 	<div class="row">
 		<div class="home col-md-4 offset-md-4 text-center">
-			<h1><u>About the maker</u></h1>
+			<h1><u>About the makerrrr</u></h1>
 		</div>
 	</div>
 	
