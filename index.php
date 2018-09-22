@@ -24,7 +24,7 @@
 		 <div class="row">
       		<div class="home col-md-6 offset-md-3 text-center">
         		<h1>MrHowe.im</h1>
-        		<p class="lead">Welcome to MrHowe.im 2</p>
+        		<p class="lead">Welcome to MrHowe.im</p>
 		  		<img src="/images/meme-code.jpg" alt="meme" width="300">
 			</div>
             <div class="home col-md-6 offset-md-3 text-center">
