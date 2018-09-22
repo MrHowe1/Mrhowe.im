@@ -26,11 +26,10 @@
         		<h1>MrHowe.im</h1>
         		<p class="lead">Welcome to MrHowe.im</p>
 		  		<img src="/images/meme-code.jpg" alt="meme" width="300">
-			</div>
-            <div class="home col-md-6 offset-md-3 text-center">
-                <p>This website is still in progress, if there is anything you would like to see, please don't hesitate to get in touch</p>
+		  			<p>This website is still in progress, if there is anything you would like to see, please don't hesitate to get in touch</p>
+		  			<p></p>
             </div>
-		</div>
+           </div>
 	  </main>
 	  
 
