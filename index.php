@@ -14,6 +14,7 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
+
     <link href="/css/main.css" rel="stylesheet">
   </head>
 
@@ -30,14 +31,38 @@
 		  			<p></p>
             </div>
            </div>
-	  </main>
-	  
 
+
+<div class="row">
+  <div class="col-sm-4 offset-2">
+    <div class="card text-white bg-black">
+      <div class="card-body">
+        <h5 class="card-title">About the maker</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+        <a href="/about.php" class="btn btn-primary">Go to Page</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card text-white bg-black">
+      <div class="card-body">
+        <h5 class="card-title">Accounting</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+        <a href="/accountancy.php" class="btn btn-primary">Go to Page</a>
+      </div>
+    </div>
+  </div>
+</div>
+	
+	  </main>
+	 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+        
     <script src="/js/jquery.min.js"></script>
     <script src="/js/popper.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/app.js"></script>
   </body>
 </html>
