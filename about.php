@@ -30,7 +30,7 @@
 	
 	<div class="row">
 	  	<div class="home col-md-4 offset-md-4 text-center">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p> Jamie Howe is a bartending and technology enthusiast from the Isle of Man. Spent 2 years with the Isle Of Man Army Cadet Force learning discipline and key life skills whilst maintaining a part time job at a local cleaning firm. </p>
 		</div>
 	</div>
 </main>
