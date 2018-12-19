@@ -30,7 +30,7 @@
 	
 	<div class="row">
 	  	<div class="home col-md-4 offset-md-4 text-center">
-			<p> Jamie Howe is a bartending and technology enthusiast from the Isle of Man. Spent 2 years with the Isle Of Man Army Cadet Force learning discipline and key life skills whilst maintaining a part time job at a local cleaning firm. </p>
+			<p> Jamie Howe is a bartending and technology enthusiast from the Isle of Man. Spent 2 years with the Isle Of Man Army Cadet Force learning discipline and key life skills whilst maintaining a part time job at a local cleaning firm. After that I went to college to learn engineering and made good progress, until a motorcycle accident forced him off the course and had to focus on his health. After that pursued a career in bartending at a local nightclub, and a few restaurants where he learnt about the hospitality industry</p>
 		</div>
 	</div>
 </main>

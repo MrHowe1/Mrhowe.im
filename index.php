@@ -26,29 +26,20 @@
       		<div class="home col-md-6 offset-md-3 text-center">
         		<h1>MrHowe.im</h1>
         		<p class="lead">Welcome to MrHowe.im</p>
-		  		<img src="/images/meme-code.jpg" alt="meme" width="300">
 		  			<p>This website is still in progress, if there is anything you would like to see, please don't hesitate to get in touch</p>
             </div>
            </div>
 
 
 	<div class="row">
-		<div class="col-sm-4 offset-2">
+		<div class="col-sm-4 offset-4">
 			<div class="card text-white bg-black">
 			<div class="card-body">
 				<h5 class="card-title">About the maker</h5>
-				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+				<p class="card-text">Jamie Howe is a bartending and technology enthusiast from the Isle of Man. Spent 2 years with the Isle Of Man Army Cadet Force learning...
+				</p>
 				<a href="/about.php" class="btn btn-primary">Go to Page</a>
       		</div>
-    		</div>
-  		</div>
-  		<div class="col-sm-4">
-    		<div class="card text-white bg-black">
-      			<div class="card-body">
-        			<h5 class="card-title">Accounting</h5>
-					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
-					<a href="/accountancy.php" class="btn btn-primary">Go to Page</a>
-      			</div>
     		</div>
   		</div>
 	</div>
